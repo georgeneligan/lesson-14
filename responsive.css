@@ -1,0 +1,175 @@
+@media screen and (max-width: 1100px) {
+  main .portfolio .bottom aside {
+    height: 600px;
+  }
+  main .about .right article h2 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  main .portfolio .bottom aside h3 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  main .banner {
+    background-position: 40%;
+  }
+  main .banner .overlay div h1 {
+    font-size: 50px;
+  }
+  main .about .about_banner {
+    background-size: cover;
+    background-position: bottom;
+  }
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  main .portfolio .bottom {
+    grid-template-columns: 1fr;
+    row-gap: 15px;
+  }
+  main .portfolio .bottom aside {
+    height: 400px;
+  }
+  main .about {
+    grid-template-columns: 1fr;
+  }
+  main .about .left {
+    height: 300px;
+  }
+
+  main .about .right {
+    row-gap: 10px;
+    margin-top: 10%;
+  }
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  main .banner {
+    height: 600px;
+  }
+  main .banner .overlay div h1 {
+    font-size: 40px;
+  }
+  .chat {
+    border-radius: 50%;
+  }
+  main .about .right article h2 {
+    font-size: 25px;
+  }
+  main .about .left {
+    height: 300px;
+  }
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 605px) {
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 558px) {
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 513px) {
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  main .banner .overlay div h1 {
+    font-size: 35px;
+  }
+  main .banner .overlay div h3 {
+    font-size: 18px;
+  }
+  main .portfolio .bottom aside {
+    height: 250px;
+  }
+  main .portfolio .top .header-text {
+    font-size: 35px;
+  }
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  main .banner .overlay div h1 {
+    font-size: 25px;
+  }
+  main .banner .overlay div h3 {
+    font-size: 16px;
+  }
+  footer .bottom p {
+    font-size: 14px;
+    word-wrap: break-word;
+  }
+
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 411px) {
+  main .about {
+    height: 910px;
+  }
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 384px) {
+  main .about .right article p {
+    width: 100%;
+  }
+  main .about .right article {
+    width: 90%;
+  }
+  main .about {
+    height: 1050px;
+  }
+}
